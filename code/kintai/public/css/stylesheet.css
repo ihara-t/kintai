@@ -1,0 +1,27 @@
+.card-header{
+    font-size: 20px;
+}
+
+.nav-link {
+    padding: 5px 5px;
+}
+
+.dropdown-menu{
+    padding-top: 10px;
+}
+
+.invalid-feedback{
+    color: red;
+}
+
+.navbar-brand{
+    font-size: 20px;
+}
+
+.btn{
+    margin-top: 20px;
+}
+
+h2 {
+    margin-top: 40px;
+}
